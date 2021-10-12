@@ -7,8 +7,8 @@
       <p><b>邮箱：2110307315@stu.pku.edu.cn</b></p >
       <p><b>地址：北京市海淀区学院路38号</b></p >
     </td>
-    <td width="25%">
-      <img src="/huashui.jpg" width="10%">       
+    <td width="100%">
+      <img src="/huashui.jpg" width="100%">       
     </td>
   </tr>
 </table>
